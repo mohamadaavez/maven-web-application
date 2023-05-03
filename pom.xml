@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.7.65.157:8081/repository/maven-central/</url>
+	      <name> aavez-testwebapp </name>
+	      <url>http:http://3.7.65.157:8081/repository/aavez-testwebapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
